@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Denise Yogerst's first blog post"
+title: "Denise's first blog post"
 date: 2017-02-20
 ---
 
